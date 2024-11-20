@@ -22,7 +22,7 @@ The default port for Filer gRPC will be **18888**
 
 Copy `.env.example` to `.env` then modify the environment variables in there.
 
-The latest `filer.proto` can be downloaded from [here](https://github.com/seaweedfs/seaweedfs/tree/master/other/java/client/src/main/proto)
+The latest `filer.proto` can be downloaded from [here](https://github.com/seaweedfs/seaweedfs/blob/master/weed/pb/filer.proto)
 
 ## Start filer watcher
 
